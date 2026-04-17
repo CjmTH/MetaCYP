@@ -1,0 +1,1 @@
+MetaCYP model uses a CYP protein sequence and a small molecule’s SMILES as input, which are sequentially processed through the feature extraction module, feature fusion module, and classification model to yield predictions for the two downstream tasks. 
