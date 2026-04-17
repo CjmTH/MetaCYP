@@ -11,4 +11,4 @@ The environment for CYPMol is configured identically to DeepP450. For detailed s
 The raw data and training scripts for the BoM and ReactType prediction tasks are located in the main/Data/, main/Model directories, respectively.
 
 ## testing
-The input file formats required for CYPMol across different tasks can be found in the corresponding BoM_example.csv or ReactType_example.csv within Main/Data/ directory. The model weight files for each task are provided in Main/Model/ directory.
+The input file formats required for CYPMol across different tasks can be found in the corresponding BoM_example.csv or ReactType_example.csv within Main/Data/ directory. The model weightare available at: https://huggingface.co/CJM1111/MetaCYP/tree/main.
